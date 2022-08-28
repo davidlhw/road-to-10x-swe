@@ -20,8 +20,14 @@ My opinionated list of the top resources to aid in becoming a better software en
 - [System Design Primer Github](https://github.com/donnemartin/system-design-primer)
 - [Crack The System Design Interview](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview) by TianPan
 - [Grokking the System Design Interview](https://akshay-iyangar.github.io/system-design/)
+- [InterviewReady](https://github.com/InterviewReady/system-design-resources) System Design Resources
 
 ### Free Book Lists (Links to PDFs or are actual PDFs)
 
 - By [EBookFoundation](https://github.com/EbookFoundation/free-programming-books)
 - By [G33kzD3n](https://github.com/G33kzD3n/Catalogue)
+- By [adit0503](https://github.com/adit0503/Reading_Books)
+
+### Good Guides
+
+- [Fullstack Roadmap Series](https://github.com/zachgoll/fullstack-roadmap-series)
