@@ -7,6 +7,7 @@ My opinionated list of the top resources to aid in becoming a better software en
 - [Things Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 - Learning how to contribute to teams on Github [First Contributions](https://github.com/firstcontributions/first-contributions)
 - The Odin Project's [Foundational Course](https://www.theodinproject.com/paths/foundations/courses/foundations)
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) by MIT CSAIL
 
 ### Tech Interview Prep
 
